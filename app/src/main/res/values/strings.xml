@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Clase4</string>
+    <string name="Registro">Registro de Usuario</string>
+    <string name="Bienvenido">Bienvenido a la primer aplicaciòn</string>
+    <string name="Buffet">Buffet:UTN</string>
+    <string name="Mail">Mail: </string>
+    <string name="Clave">Clave: </string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="O">O</string>
+    <string name="Registrarme">Registrarme</string>
+    <string name="PantRegistro">Esta es la pantalla de registro.</string>
+    <string name="DatVerdaderos">Por favor ingrese datos verdaderos.</string>
+    <string name="Nombre">Nombre: </string>
+    <string name="Apellido">Apellido: </string>
+    <string name="Dni">DNI: </string>
+    <string name="Reingrese">Reingrese: </string>
+</resources>
